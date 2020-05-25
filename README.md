@@ -1,5 +1,5 @@
-# -SpringBoot-
-微信小程序+SpringBoot框架入门项目
+# 微信小程序+SpringBoot框架入门项目
+
 
 简单的SpringBoot项目搭建+微信小程序。
 
